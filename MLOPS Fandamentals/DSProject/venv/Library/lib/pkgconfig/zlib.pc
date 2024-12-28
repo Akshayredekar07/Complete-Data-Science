@@ -1,0 +1,13 @@
+prefix=D:/Lens/MLOPS Fandamentals/DSProject/venv/Library
+exec_prefix=D:/Lens/MLOPS Fandamentals/DSProject/venv/Library
+libdir=D:/Lens/MLOPS Fandamentals/DSProject/venv/Library/lib
+sharedlibdir=D:/Lens/MLOPS Fandamentals/DSProject/venv/Library/lib
+includedir=D:/Lens/MLOPS Fandamentals/DSProject/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
