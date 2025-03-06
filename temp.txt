@@ -1,0 +1,8 @@
+
+
+
+Let say you are judje in a criminal 
+1. Accussed is guilty ---> innocet
+1. Accussed is innocet ---> guilty
+
+
